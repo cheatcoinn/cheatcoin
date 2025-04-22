@@ -10,10 +10,11 @@
     {
       "chainId": 7777777,
       "address": "0xbabb7c31711df3504D1a940a23E6730ff42F5D53",
-      "name": "cheatcoin",
-      "symbol": "cc",
+      "name": "Cheatcoin",
+      "symbol": "CC",
       "decimals": 18,
-      "logoURI": "https://i.postimg.cc/7LxSkBpb/image.png"
+      "logoURI": "https://i.postimg.cc/LXrbc5v4/cheatcoin-logo.png"
     }
-  ]
+  ],
+  "keywords": ["cheatcoin", "zora", "cc"]
 }
