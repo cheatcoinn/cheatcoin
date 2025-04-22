@@ -1,0 +1,19 @@
+{
+  "name": "Cheatcoin Token List",
+  "timestamp": "2025-04-22T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 7777777,
+      "address": "0xbabb7c31711df3504D1a940a23E6730ff42F5D53",
+      "name": "cheatcoin",
+      "symbol": "cc",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/7LxSkBpb/image.png"
+    }
+  ]
+}
